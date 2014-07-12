@@ -7,6 +7,7 @@ The aim is to be warned ahead of time (depending on the signal strength), before
 MacFinder
 ========
 It checks the connected devices in the local network and stores them in a file. 
+It uses the MAC address of the devices.
 It also allows to name the devices (like Fing for Android).
 
 
