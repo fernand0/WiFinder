@@ -4,6 +4,12 @@ By using nmap, this script scan the number of hosts connected to the network, to
 
 The aim is to be warned ahead of time (depending on the signal strength), before unexpected arrival of any roommates.
 
+MacFinder
+========
+It checks the connected devices in the local network and stores them in a file. 
+It also allows to name the devices (like Fing for Android).
+
+
 ## Install
 
 To run the script are required Python and Nmap, which can be found at the following : 
