@@ -9,7 +9,9 @@ MacFinder
 It checks the connected devices in the local network and stores them in a file. 
 It uses the MAC address of the devices.
 It also allows to name the devices (like Fing for Android).
-
+In my system (Ubuntu) you need to run the program with sudo:
+sudo python macfinder.py 
+It drops privileges when it does not need them anymore.
 
 ## Install
 
