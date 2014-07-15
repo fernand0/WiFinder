@@ -1,6 +1,12 @@
 #!/usr/bin/env python
 
 """
+From now this file will not get more actualizations here. 
+It will be maintained at:
+https://github.com/fernand0/scripts/blob/master/macfinder.py
+inside:
+https://github.com/fernand0/scripts
+
 This program tries to be a Fing-like tool 
 https://play.google.com/store/apps/details?id=com.overlook.android.fing&hl=en 
 It scans your Wi-Fi network, and discovers which devices are connected.
